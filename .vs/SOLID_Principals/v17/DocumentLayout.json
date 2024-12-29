@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SasiKanth\\Training\\SOLID_Principals\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF72B64-1315-4A51-B88D-511639FCFE52}|SOLID_Principals\\SOLID_Principals.csproj|c:\\sasikanth\\training\\solid_principals\\solid_principals\\single_responsibility_principle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEF72B64-1315-4A51-B88D-511639FCFE52}|SOLID_Principals\\SOLID_Principals.csproj|solutionrelative:solid_principals\\single_responsibility_principle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF72B64-1315-4A51-B88D-511639FCFE52}|SOLID_Principals\\SOLID_Principals.csproj|C:\\SasiKanth\\Training\\SOLID_Principals\\solid_principals\\lsp-example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEF72B64-1315-4A51-B88D-511639FCFE52}|SOLID_Principals\\SOLID_Principals.csproj|solutionrelative:solid_principals\\lsp-example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF72B64-1315-4A51-B88D-511639FCFE52}|SOLID_Principals\\SOLID_Principals.csproj|C:\\SasiKanth\\Training\\SOLID_Principals\\solid_principals\\dependency_inversion_principle\\dip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEF72B64-1315-4A51-B88D-511639FCFE52}|SOLID_Principals\\SOLID_Principals.csproj|solutionrelative:solid_principals\\dependency_inversion_principle\\dip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF72B64-1315-4A51-B88D-511639FCFE52}|SOLID_Principals\\SOLID_Principals.csproj|C:\\SasiKanth\\Training\\SOLID_Principals\\solid_principals\\dependency_inversion_principle\\intimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEF72B64-1315-4A51-B88D-511639FCFE52}|SOLID_Principals\\SOLID_Principals.csproj|solutionrelative:solid_principals\\dependency_inversion_principle\\intimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF72B64-1315-4A51-B88D-511639FCFE52}|SOLID_Principals\\SOLID_Principals.csproj|C:\\SasiKanth\\Training\\SOLID_Principals\\solid_principals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEF72B64-1315-4A51-B88D-511639FCFE52}|SOLID_Principals\\SOLID_Principals.csproj|solutionrelative:solid_principals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF72B64-1315-4A51-B88D-511639FCFE52}|SOLID_Principals\\SOLID_Principals.csproj|C:\\SasiKanth\\Training\\SOLID_Principals\\solid_principals\\with-interface_segregation_principle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEF72B64-1315-4A51-B88D-511639FCFE52}|SOLID_Principals\\SOLID_Principals.csproj|solutionrelative:solid_principals\\with-interface_segregation_principle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF72B64-1315-4A51-B88D-511639FCFE52}|SOLID_Principals\\SOLID_Principals.csproj|C:\\SasiKanth\\Training\\SOLID_Principals\\solid_principals\\with-liskov_substitution_principle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEF72B64-1315-4A51-B88D-511639FCFE52}|SOLID_Principals\\SOLID_Principals.csproj|solutionrelative:solid_principals\\with-liskov_substitution_principle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF72B64-1315-4A51-B88D-511639FCFE52}|SOLID_Principals\\SOLID_Principals.csproj|C:\\SasiKanth\\Training\\SOLID_Principals\\solid_principals\\without-interface_segregation_principle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEF72B64-1315-4A51-B88D-511639FCFE52}|SOLID_Principals\\SOLID_Principals.csproj|solutionrelative:solid_principals\\without-interface_segregation_principle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF72B64-1315-4A51-B88D-511639FCFE52}|SOLID_Principals\\SOLID_Principals.csproj|C:\\SasiKanth\\Training\\SOLID_Principals\\solid_principals\\without-liskov_substitution_principle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEF72B64-1315-4A51-B88D-511639FCFE52}|SOLID_Principals\\SOLID_Principals.csproj|solutionrelative:solid_principals\\without-liskov_substitution_principle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|SOLID_Principals||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF72B64-1315-4A51-B88D-511639FCFE52}|SOLID_Principals\\SOLID_Principals.csproj|C:\\SasiKanth\\Training\\SOLID_Principals\\solid_principals\\open_closed_principle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEF72B64-1315-4A51-B88D-511639FCFE52}|SOLID_Principals\\SOLID_Principals.csproj|solutionrelative:solid_principals\\open_closed_principle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Intimation.cs",
+              "DocumentMoniker": "C:\\SasiKanth\\Training\\SOLID_Principals\\SOLID_Principals\\Dependency_Inversion_Principle\\Intimation.cs",
+              "RelativeDocumentMoniker": "SOLID_Principals\\Dependency_Inversion_Principle\\Intimation.cs",
+              "ToolTip": "C:\\SasiKanth\\Training\\SOLID_Principals\\SOLID_Principals\\Dependency_Inversion_Principle\\Intimation.cs",
+              "RelativeToolTip": "SOLID_Principals\\Dependency_Inversion_Principle\\Intimation.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T07:14:49.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DIP.cs",
+              "DocumentMoniker": "C:\\SasiKanth\\Training\\SOLID_Principals\\SOLID_Principals\\Dependency_Inversion_Principle\\DIP.cs",
+              "RelativeDocumentMoniker": "SOLID_Principals\\Dependency_Inversion_Principle\\DIP.cs",
+              "ToolTip": "C:\\SasiKanth\\Training\\SOLID_Principals\\SOLID_Principals\\Dependency_Inversion_Principle\\DIP.cs",
+              "RelativeToolTip": "SOLID_Principals\\Dependency_Inversion_Principle\\DIP.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T07:11:22.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "With-Interface_Segregation_Principle.cs",
+              "DocumentMoniker": "C:\\SasiKanth\\Training\\SOLID_Principals\\SOLID_Principals\\With-Interface_Segregation_Principle.cs",
+              "RelativeDocumentMoniker": "SOLID_Principals\\With-Interface_Segregation_Principle.cs",
+              "ToolTip": "C:\\SasiKanth\\Training\\SOLID_Principals\\SOLID_Principals\\With-Interface_Segregation_Principle.cs",
+              "RelativeToolTip": "SOLID_Principals\\With-Interface_Segregation_Principle.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T06:35:53.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Without-Interface_Segregation_Principle.cs",
+              "DocumentMoniker": "C:\\SasiKanth\\Training\\SOLID_Principals\\SOLID_Principals\\Without-Interface_Segregation_Principle.cs",
+              "RelativeDocumentMoniker": "SOLID_Principals\\Without-Interface_Segregation_Principle.cs",
+              "ToolTip": "C:\\SasiKanth\\Training\\SOLID_Principals\\SOLID_Principals\\Without-Interface_Segregation_Principle.cs",
+              "RelativeToolTip": "SOLID_Principals\\Without-Interface_Segregation_Principle.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T05:58:35.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LSP-Example.cs",
+              "DocumentMoniker": "C:\\SasiKanth\\Training\\SOLID_Principals\\SOLID_Principals\\LSP-Example.cs",
+              "RelativeDocumentMoniker": "SOLID_Principals\\LSP-Example.cs",
+              "ToolTip": "C:\\SasiKanth\\Training\\SOLID_Principals\\SOLID_Principals\\LSP-Example.cs",
+              "RelativeToolTip": "SOLID_Principals\\LSP-Example.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T08:40:12.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SOLID_Principals",
+              "DocumentMoniker": "C:\\SasiKanth\\Training\\SOLID_Principals\\SOLID_Principals\\SOLID_Principals.csproj",
+              "RelativeDocumentMoniker": "SOLID_Principals\\SOLID_Principals.csproj",
+              "ToolTip": "C:\\SasiKanth\\Training\\SOLID_Principals\\SOLID_Principals\\SOLID_Principals.csproj",
+              "RelativeToolTip": "SOLID_Principals\\SOLID_Principals.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-30T08:04:15.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "With-Liskov_Substitution_Principle.cs",
+              "DocumentMoniker": "C:\\SasiKanth\\Training\\SOLID_Principals\\SOLID_Principals\\With-Liskov_Substitution_Principle.cs",
+              "RelativeDocumentMoniker": "SOLID_Principals\\With-Liskov_Substitution_Principle.cs",
+              "ToolTip": "C:\\SasiKanth\\Training\\SOLID_Principals\\SOLID_Principals\\With-Liskov_Substitution_Principle.cs",
+              "RelativeToolTip": "SOLID_Principals\\With-Liskov_Substitution_Principle.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T07:48:07.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Without-Liskov_Substitution_Principle.cs",
+              "DocumentMoniker": "C:\\SasiKanth\\Training\\SOLID_Principals\\SOLID_Principals\\Without-Liskov_Substitution_Principle.cs",
+              "RelativeDocumentMoniker": "SOLID_Principals\\Without-Liskov_Substitution_Principle.cs",
+              "ToolTip": "C:\\SasiKanth\\Training\\SOLID_Principals\\SOLID_Principals\\Without-Liskov_Substitution_Principle.cs",
+              "RelativeToolTip": "SOLID_Principals\\Without-Liskov_Substitution_Principle.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAEQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T07:05:25.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Open_Closed_Principle.cs",
+              "DocumentMoniker": "C:\\SasiKanth\\Training\\SOLID_Principals\\SOLID_Principals\\Open_Closed_Principle.cs",
+              "RelativeDocumentMoniker": "SOLID_Principals\\Open_Closed_Principle.cs",
+              "ToolTip": "C:\\SasiKanth\\Training\\SOLID_Principals\\SOLID_Principals\\Open_Closed_Principle.cs",
+              "RelativeToolTip": "SOLID_Principals\\Open_Closed_Principle.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T06:35:41.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Single_Responsibility_Principle.cs",
+              "DocumentMoniker": "C:\\SasiKanth\\Training\\SOLID_Principals\\SOLID_Principals\\Single_Responsibility_Principle.cs",
+              "RelativeDocumentMoniker": "SOLID_Principals\\Single_Responsibility_Principle.cs",
+              "ToolTip": "C:\\SasiKanth\\Training\\SOLID_Principals\\SOLID_Principals\\Single_Responsibility_Principle.cs",
+              "RelativeToolTip": "SOLID_Principals\\Single_Responsibility_Principle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T06:18:23.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SasiKanth\\Training\\SOLID_Principals\\SOLID_Principals\\Program.cs",
+              "RelativeDocumentMoniker": "SOLID_Principals\\Program.cs",
+              "ToolTip": "C:\\SasiKanth\\Training\\SOLID_Principals\\SOLID_Principals\\Program.cs",
+              "RelativeToolTip": "SOLID_Principals\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T06:16:44.961Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
